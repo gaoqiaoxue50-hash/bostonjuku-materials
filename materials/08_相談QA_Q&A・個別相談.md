@@ -115,7 +115,7 @@
 
 ## Part 2: 記事一覧（サブテーマ別）
 
-> サブテーマ別に整理。★15いいね以上の記事は本文の冒頭も掲載。
+> サブテーマ別に整理。**30いいね以上の記事は全文掲載**、15〜29いいねは冒頭800字。
 
 ### 経歴・学歴の相談
 
@@ -153,7 +153,9 @@
 **①エディンバラ大学**
 ・TIMES大学ランキングでは、堂々の29位（28位の東大と同等）
 
-[**World University Rankings 20
+[**World University Rankings 2026 | Times Higher Education (THE)**
+*Explore the 2026 World University Rankings by Times Higher Ed*
+*www.timeshighereducation.com*](https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking?page=1#!/length/25/sort_by/rank/sort_order/asc/cols/scores)[](https://www.timeshighe
 
 *→ [元記事で全文を読む](https://note.com/bostonjuku/n/n74b0b6734e5b)*
 
