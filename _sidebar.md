@@ -11,3 +11,9 @@
 - [07 業界分析・企業研究](materials/07_業界分析_業界分析・企業研究.md)
 - [08 Q&A・個別相談](materials/08_相談QA_Q&A・個別相談.md)
 - [09 キャリア・転職・MBA](materials/09_キャリア_キャリア全般・転職・MBA.md)
+
+**🗂️ 逆引きリファレンス**
+
+- [テクニカル50問（IBD金融知識）](materials/reference/技術質問50問.md)
+- [面接質問マスターリスト160問](materials/reference/面接質問160問.md)
+- [NG志望動機集（IBD/AM/商社）](materials/reference/NG志望動機集.md)
